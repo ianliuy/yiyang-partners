@@ -1,28 +1,28 @@
-# 加杠杆
+# Leverage
 
-中文 | [English](leverage_english.md)
+English | [中文](leverage_chinese.md)
 
-投资正道加杠杆。
+Leveragin, the right way in investing.
 
-今天想与大家分享一个我非常重视的投资理念，那就是关于杠杆的使用。很多人可能对杠杆持有恐惧或误解的态度，但让我来给大家解释一下它的真实面貌。
+Today, I'd like to share with you a vital investment philosophy I hold dear, that is, the use of leverage. Many people might hold a fear or misconception about leverage, but let me explain its real nature.
 
-首先，我想大家都明白，加杠杆是一种放大收益和损失的投资手段。简单地说，当市场上涨时，使用杠杆可以放大你的收益；但同时，当市场下跌时，你的损失也会被放大。这是杠杆的双刃剑特性。
+Firstly, I believe we all understand that leverage is an investment approach that magnifies both gains and losses. Simply put, when the market goes up, using leverage can amplify your profits; but at the same time, when the market drops, your losses will also be magnified. This is the double-edged sword of leverage.
 
-那么，为什么我会强调使用杠杆呢？实际上，这不是我的主观臆断，而是基于深入研究的结果。有一篇论文详细研究了从0倍到3倍杠杆的各种情况下，哪种杠杆倍数能够实现收益的最大化。结果是，当杠杆为2.7倍时，收益最大。
+So, why do I emphasize the use of leverage? In fact, this is not just my personal assumption but is based on comprehensive research. A study examined various scenarios from 0x to 3x leverage to determine which leverage ratio maximizes returns. The result was that returns were maximized at 2.7x leverage.
 
-当然，我知道大家会问：为什么是2.7倍这么特殊的数字呢？
+Of course, I know the question on everyone's mind: Why this specific number, 2.7x?
 
-这背后其实有两大因素在起作用。一方面，杠杆可以放大正收益，这是杠杆的正面效果。但另一方面，杠杆也会放大损失，这是所谓的“杠杆损耗”。当我们加大杠杆时，这两种效应会同时作用于我们的投资，需要找到一个平衡点，确保总的收益最大化。经过计算，这个平衡点恰好是2.7倍。
+There are two main factors at play here. On one hand, leverage can magnify positive returns, which is the positive effect of leverage. On the other hand, leverage can also magnify losses, referred to as "leverage decay." When we increase leverage, these two effects act upon our investments simultaneously. There's a need to find a balance that ensures the overall returns are maximized. Through calculations, this balance happens to be at 2.7x.
 
-那么，这个知识点给我们带来了什么启示呢？
+So, what insights does this piece of knowledge provide?
 
-首先，无论我们处于什么样的投资阶段，都应考虑使用杠杆。特别是对于年轻人，应该在投资早期加大杠杆，随着年龄的增长，逐渐减少杠杆的使用。
+Firstly, regardless of our investment stage, we should consider using leverage. Especially for younger individuals, it's wise to use more leverage earlier in their investment journey and gradually reduce its use as they age.
 
-此外，有一种传统观点认为，随着年龄的增长，应该减少股票的比例，增加债券的比例。但我认为这种观点并不完全正确。从长远的历史数据来看，加杠杆2.7倍在标普500中表现最佳。而对于上涨势头更猛的纳斯达克100，最佳的加杠杆倍数应该是在3~4之间。
+Additionally, there's a traditional viewpoint that, as one ages, they should decrease their stock holdings and increase their bond holdings. However, I don't believe this view is entirely correct. Looking at long-term historical data, 2.7x leverage performs best in the S&P 500. For the more aggressive NASDAQ 100, the optimal leverage ratio lies between 3x and 4x.
 
-总之，我的核心观点是：杠杆，当然是一个好工具。但关键是如何恰当地使用它。如果你的资产整体呈上涨趋势，那么合理地使用杠杆将为你带来更多的收益。但如果资产整体下跌，那么过度的杠杆只会加速你的损失。
+In conclusion, my core belief is: Leverage is undoubtedly a valuable tool. The key lies in how to use it appropriately. If your assets are on an overall uptrend, then using leverage wisely can bring you greater returns. However, if your assets are in a downturn, excessive leverage will only hasten your losses.
 
-#### 附录
+#### Appendix
 
 ![Untitled](../pic/leverage_312904010f684848aa859d7feac5f83f/Untitled.png)
 
