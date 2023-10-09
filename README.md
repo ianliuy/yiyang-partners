@@ -1,4 +1,4 @@
-Yiyang Partner
+Yiyang Partners
 ====
 Leveraged Value Investing: The Investment Philosophy Adopted by Yiyang Partners
 
