@@ -9,7 +9,9 @@ Starting Value: 45,627.36
 
 Ending Value: 57,671.61
 
-Time Weighted Rate of Return: $${\color{red}24.51\%}$$
+
+| Time Weighted Rate of Return | $${\color{red}24.51\%}$$ |
+|---|---|
 
 ![](../pic/performance_history/2024-03.png)
 
