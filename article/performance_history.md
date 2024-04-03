@@ -32,7 +32,8 @@ Starting Value: 12,337.82
 
 Ending Value: 26,540.06
 
-**Time Weighted Rate of Return: <span style="color:green;">21.99%</span>**
+| Time Weighted Rate of Return | $${\color{green}21.99\\%}$$ |
+|---|---|
 
 ![](../pic/performance_history/2024-01.png)
 
@@ -42,7 +43,8 @@ Starting Value: 9,723.69
 
 Ending Value: 12,337.82
 
-**Time Weighted Rate of Return: <span style="color:green;">26.88%</span>**
+| Time Weighted Rate of Return | $${\color{green}26.88\\%}$$ |
+|---|---|
 
 ![](../pic/performance_history/2023-12.png)
 
@@ -51,7 +53,8 @@ Starting Value: 6,480.31
 
 Ending Value: 9,723.69
 
-**Time Weighted Rate of Return: <span style="color:green;">50.05%</span>**
+| Time Weighted Rate of Return | $${\color{green}50.05\\%}$$ |
+|---|---|
 
 ![](../pic/performance_history/2023-11.png)
 
@@ -61,7 +64,8 @@ Starting Value: 3,389.86
 
 Ending Value: 6,480.31
 
-**Time Weighted Rate of Return: <span style="color:red;">-18.72%</span>**
+| Time Weighted Rate of Return | $${\color{red}-18.72\\%}$$ |
+|---|---|
 
 ![](../pic/performance_history/2023-10-1.png)
 
@@ -70,7 +74,8 @@ Starting Value: 3,582.80
 
 Ending Value: 3,389.86
 
-**Time Weighted Rate of Return: <span style="color:red;">-28.44%</span>**
+| Time Weighted Rate of Return | $${\color{red}-28.44\\%}$$ |
+|---|---|
 
 ![](../pic/performance_history/2023-09.png)
 
@@ -80,7 +85,8 @@ Starting Value: 1,027.17
 
 Ending Value: 3,582.80
 
-**Time Weighted Rate of Return: <span style="color:red;">-7.91%</span>**
+| Time Weighted Rate of Return | $${\color{red}-7.91\\%}$$ |
+|---|---|
 
 ![](../pic/performance_history/2023-08-1.png)
 
@@ -90,7 +96,8 @@ Starting Value: 753.23
 
 Ending Value: 1,027.17
 
-**Time Weighted Rate of Return: <span style="color:red;">-2.47%</span>**
+| Time Weighted Rate of Return | $${\color{red}-2.47\\%}$$ |
+|---|---|
 
 ![](../pic/performance_history/2023-07.png)
 
@@ -100,7 +107,8 @@ Starting Value: 348.45
 
 Ending Value: 753.23
 
-**Time Weighted Rate of Return: <span style="color:red;">-7.97%</span>**
+| Time Weighted Rate of Return | $${\color{red}-7.97\\%}$$ |
+|---|---|
 
 ![](../pic/performance_history/2023-06.png)
 
@@ -110,6 +118,7 @@ Starting Value: 0.00
 
 Ending Value: 348.45
 
-**Time Weighted Rate of Return: <span style="color:green;">10.72%</span>**
+| Time Weighted Rate of Return | $${\color{green}10.72\\%}$$ |
+|---|---|
 
 ![](../pic/performance_history/2023-05.png)
