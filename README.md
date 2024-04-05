@@ -5,7 +5,7 @@ Leveraged Value Investing: The Investment Philosophy Adopted by Yiyang Partners
 
 [performance history](article/performance_history.md)
 
-#### Read List
+#### Reading List
 
 [leverage](article/leverage_english.md)
 
