@@ -1,6 +1,6 @@
 Yiyang Partners
 ====
-Leveraged Value Investing: Yiyang Partners' Investment Philosophy
+Leveraged Value Investing - Yiyang Partners' Investment Philosophy
 
 
 
