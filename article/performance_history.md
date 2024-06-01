@@ -2,6 +2,18 @@
 
 Performance Tracking of [Yiyang Partners](../README.md)
 
+## May 2024
+
+Starting Value: 49,546.10
+
+Ending Value: 75,300.97
+
+| Time Weighted Rate of Return | $${\color{green}50.99\\%}$$ |
+|---|---|
+
+![](../pic/performance_history/2024-05.png)
+
+
 ## Apr. 2024
 
 Starting Value: 57,671.61
