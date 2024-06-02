@@ -6,7 +6,7 @@ Performance Tracking of [Yiyang Partners](../README.md)
 
 Starting Value: 49,546.10
 
-Ending Value: 75,300.97
+Ending Value: 74810.85
 
 | Time Weighted Rate of Return | $${\color{green}50.99\\%}$$ |
 |---|---|
