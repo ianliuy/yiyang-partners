@@ -2,6 +2,22 @@
 
 中文 | [English](value_investing_qa_english.md)
 
+Q&A列表
+* [价值投资应该找什么公司？](value_investing_qa_chinese.md#价值投资应该找什么公司)
+* [为什么多数人即使买到了好公司依然无法盈利？](value_investing_qa_chinese.md#为什么多数人即使买到了好公司依然无法盈利)
+* [如何发现好公司？好公司的标准是什么？](value_investing_qa_chinese.md#如何发现好公司好公司的标准是什么)
+* [买入/持有股票的心态应该是什么？](value_investing_qa_chinese.md#买入持有股票的心态应该是什么)
+* [如何应对公司股价的下跌？](value_investing_qa_chinese.md#如何应对公司股价的下跌)
+* [什么时候会卖出一家公司？卖出公司的标准是什么？](value_investing_qa_chinese.md#什么时候会卖出一家公司卖出公司的标准是什么)
+* [买入好公司的时机应该是什么？应该以什么价格买入好公司？需要择时吗？](value_investing_qa_chinese.md#买入好公司的时机应该是什么应该以什么价格买入好公司需要择时吗)
+* [应该挑选什么行业？选行业和选公司是什么关系？](value_investing_qa_chinese.md#应该挑选什么行业选行业和选公司是什么关系)
+* [投资如何控制风险？如何进行仓位配置？](value_investing_qa_chinese.md#投资如何控制风险如何进行仓位配置)
+* [为什么要在熊市里投资？](value_investing_qa_chinese.md#为什么要在熊市里投资)
+* [为什么投资股票要有百分之百的信心？](value_investing_qa_chinese.md#为什么投资股票要有百分之百的信心)
+* [价值投资者如何练习情绪控制？](value_investing_qa_chinese.md#价值投资者如何练习情绪控制)
+* [未来看好什么行业？](value_investing_qa_chinese.md#未来看好什么行业)
+* [成熟的投资者应该如何做投资？](value_investing_qa_chinese.md#成熟的投资者应该如何做投资)
+
 ## **价值投资应该找什么公司？**
 
 ****但斌，东方港湾创始人**** - 2024年1月31日《格隆对话但斌》（[link](https://zm2i46tzkp.larksuite.com/minutes/obus1c4yp55zjyt8v2il9742?from=from_copylink)）
