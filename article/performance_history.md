@@ -2,6 +2,15 @@
 
 Performance Tracking of [Yiyang Partners](../README.md)
 
+## Yearly Performance
+
+| Year | Starting Value | Ending Value | Performance |
+| 2024 (ytd) | 12,337.82 | 100,306.25 |$${\color{green}258.25\\%}$$ |
+| 2023 | 0 | 12,337.82 |$${\color{green}1.34\\%}$$ |
+|---|---|
+
+(last update: Jun. 27, 2024)
+
 ## May 2024
 
 Starting Value: 49,546.10
