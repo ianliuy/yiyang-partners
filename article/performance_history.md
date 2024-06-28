@@ -17,20 +17,19 @@ Performance Tracking of [Yiyang Partners](../README.md)
 | Month | Starting Value | Ending Value | Monthly Performance (TWR) |
 |---|---|---|---|
 | 2024 - 06 | 74810.85 | 100,306.25 |$${\color{green}35.04\\%}$$ |
-| [2024 - 05](performance_history.md#may-2024) | 49,546.10 | 74810.85 |$${\color{green}50.99\\%}$$ |
-| [2024 - 04](performance_history.md#apr-2024) | 57671.61	| 49546.10 |$${\color{red}-15.81\\%}$$ |
-| [2024 - 03](performance_history.md#mar-2024) | 45627.36	| 57671.61 |$${\color{green}24.51\\%}$$ |
-| [2024 - 02](performance_history.md#feb-2024) | 26540.06 | 45627.36 |$${\color{green}38.39\\%}$$ |
-| [2024 - 01](performance_history.md#jan-2024) | 12337.82 | 26540.06 |$${\color{green}21.99\\%}$$ |
-| [2023 - 12](performance_history.md#dec-2023) | 9723.69 | 12337.82 |$${\color{green}26.88\\%}$$ |
-| [2023 - 11](performance_history.md#nov-2023) | 6480.31 | 9723.69 |$${\color{green}50.05\\%}$$ |
-| [2023 - 10](performance_history.md#oct-2023) | 3389.86 | 6480.31 |$${\color{red}-18.72\\%}$$ |
-| [2023 - 09](performance_history.md#sep-2023) | 3582.80 | 3389.86 |$${\color{red}-28.44\\%}$$ |
-| [2023 - 08](performance_history.md#aug-2023) | 1027.17 | 3582.80 |$${\color{red}-7.91\\%}$$ |
-| [2023 - 07](performance_history.md#jul-2023) | 753.23 | 1027.17 |$${\color{red}-2.47\\%}$$ |
-| [2023 - 06](performance_history.md#jun-2023) | 348.45 | 753.23 |$${\color{red}-7.97\\%}$$ |
-| [2023 - 05](performance_history.md#may-2023) | 0.00 | 348.45 |$${\color{green}10.72\\%}$$ |
-
+| 2024 - 05 | 49,546.10 | 74810.85 |$${\color{green}50.99\\%}$$ |
+| 2024 - 04 | 57671.61	| 49546.10 |$${\color{red}-15.81\\%}$$ |
+| 2024 - 03 | 45627.36	| 57671.61 |$${\color{green}24.51\\%}$$ |
+| 2024 - 02 | 26540.06 | 45627.36 |$${\color{green}38.39\\%}$$ |
+| 2024 - 01 | 12337.82 | 26540.06 |$${\color{green}21.99\\%}$$ |
+| 2023 - 12 | 9723.69 | 12337.82 |$${\color{green}26.88\\%}$$ |
+| 2023 - 11 | 6480.31 | 9723.69 |$${\color{green}50.05\\%}$$ |
+| 2023 - 10 | 3389.86 | 6480.31 |$${\color{red}-18.72\\%}$$ |
+| 2023 - 09 | 3582.80 | 3389.86 |$${\color{red}-28.44\\%}$$ |
+| 2023 - 08 | 1027.17 | 3582.80 |$${\color{red}-7.91\\%}$$ |
+| 2023 - 07 | 753.23 | 1027.17 |$${\color{red}-2.47\\%}$$ |
+| 2023 - 06 | 348.45 | 753.23 |$${\color{red}-7.97\\%}$$ |
+| 2023 - 05 | 0.00 | 348.45 |$${\color{green}10.72\\%}$$ |
 
 (last update: Jun. 27, 2024)
 
