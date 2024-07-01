@@ -16,7 +16,7 @@ Performance Tracking of [Yiyang Partners](../README.md)
 
 | Month | Starting Value | Ending Value | Monthly Performance (TWR) |
 |---|---|---|---|
-| 2024 - 06 | 74810.85 | 100,306.25 |$${\color{green}35.04\\%}$$ |
+| 2024 - 06 | 74810.85 | 106,852.33 |$${\color{green}42.82\\%}$$ |
 | 2024 - 05 | 49,546.10 | 74810.85 |$${\color{green}50.99\\%}$$ |
 | 2024 - 04 | 57671.61	| 49546.10 |$${\color{red}-15.81\\%}$$ |
 | 2024 - 03 | 45627.36	| 57671.61 |$${\color{green}24.51\\%}$$ |
@@ -34,6 +34,17 @@ Performance Tracking of [Yiyang Partners](../README.md)
 (last update: Jun. 27, 2024)
 
 ## Monthly Statement
+
+### Jun. 2024
+
+Starting Value: 74810.85
+
+Ending Value: 106,852.33
+
+| Time Weighted Rate of Return | $${\color{green}42.82\\%}$$ |
+|---|---|
+
+![](../pic/performance_history/2024-06.png)
 
 ### May 2024
 
