@@ -7,7 +7,7 @@ Performance Tracking of [Yiyang Partners](../README.md)
 
 | Year | Starting Value | Ending Value | Yearly Performance (TWR) |
 |---|---|---|---|
-| 2024 (ytd) | 12,337.82 | 106,852.33 |$${\color{green}281.63%\\%}$$ |
+| 2024 (ytd) | 12,337.82 | 106,852.33 |$${\color{green}281.63\\%}$$ |
 | 2023 | 0 | 12,337.82 |$${\color{green}1.34\\%}$$ |
 
 (last update: Jul. 1, 2024)
